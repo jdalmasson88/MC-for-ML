@@ -51,7 +51,7 @@ use tinput digitizer realnoise rec uind wiregain toutput
 /digitizer/numdiffusePCDs 1
 /digitizer/electronLifetime 4500
 /realnoise/makeNoiseFile false
-/realnoise/NoiseFile /nfs/slac/g/exo_data2/exo_data/data/MC/NoiseLibraries/LB_noise_lib_Run2abc_20140717.root
+/realnoise/NoiseFile /nfs/slac/g/exo-userdata/users/mjjewell/NoiseLibrary_PhaseI_50k/NoiseLibrary_Phase1_2464_6370_50k.root
 /realnoise/useNoiseFile true
 /rec/LowerFitBoundWire 40
 /rec/UpperFitBoundWire 140
